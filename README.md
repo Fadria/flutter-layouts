@@ -1,16 +1,8 @@
-# disenos
+# Layouts Flutter
 
-A new Flutter project.
+En este proyecto he imitado diferentes layouts con la finalidad de mejorar mis conocimientos relacionados con el diseño en Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hay 3 pantallas disponibles, las cuales imitan los siguientes diseños:
+-https://flutter.dev/docs/development/ui/layout/tutorial
+-https://ibb.co/pnPVstG
+-https://ibb.co/YdgRDqs
